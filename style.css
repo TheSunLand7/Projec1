@@ -1,3 +1,7 @@
-p {
-  color: inherit;
+h1 {
+  color: lightblue;
+}
+h2.new > p {
+  color: white;
+  background-color: blue;
 }
